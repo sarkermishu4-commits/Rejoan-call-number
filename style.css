@@ -1,0 +1,38 @@
+  .main {
+    align-items: center;
+    justify-content: center;
+    display:grid;
+    padding:20px;
+    
+    background-color: aquamarine;
+  }
+
+
+h1 {
+    color:white;
+    font-weight: bold;
+    font-size: 27px;
+    border-radius: 80px;
+
+    height:60px;
+    width: 300px;
+    background-color:orange;
+    text-align: center;
+
+    
+}
+#h2 {
+    color:green;
+    font-weight: bold;
+    font-size: 40px;
+}
+#h3 {
+    color:orange;
+    font-weight: bold;
+    font-size: 40px;
+}
+#h4 {
+    color:blue;
+    font-weight: bold;
+    font-size: 40px;
+}
